@@ -1,8 +1,6 @@
 # Phase Labs
 ![Phase Labs Banner](https://github.com/phaselabscrypto/.github/blob/main/profile/public/phaseBanner.png?raw=true)
-### The Phase Labs team started building on Solana in late 2021, primarily contributing to public
-goods, also receiving a grant from Solana Foundation and winning prizes in 4 different hackathons. The
-team previously co-founded and built the auction technology behind Radiants DAO.
+### The Phase Labs team started building on Solana in late 2021, primarily contributing to public goods, also receiving a grant from Solana Foundation and winning prizes in 4 different hackathons. The team previously co-founded and built the auction technology behind Radiants DAO.
 ## Netrunner
 ![Netrunner Banner](https://github.com/phaselabscrypto/.github/blob/main/profile/public/nrBanner.png?raw=true)
 ### Netrunner is the cutting-edge tax suite built specifically for the Solana ecosystem. Our platform simplifies the complex process of crypto tax reporting by providing users with a seamless experience from wallet integration to tax report generation. Designed for both novice and experienced users, Netrunner ensures compliance with tax regulations across the USA, UK, Canada, Australia, and New Zealand.
