@@ -7,7 +7,7 @@
 ## Align
 ![Align Banner](https://github.com/phaselabscrypto/.github/blob/main/profile/public/alignBanner.png?raw=true)
 ### Align empowers decentralized decision-making through community-centric governance. By providing robust tools for transparent decision-making and collaboration, Align fosters innovation and growth across the Web3 landscape. Align serves as a central hub for community-driven initiatives, offering features such as proposal creation, voting mechanisms, bounties, and community fund management.
-## Ideapad
+## IdeaPad
 ![Ideapad Banner](https://github.com/phaselabscrypto/.github/blob/main/profile/public/ideaBanner.png?raw=true)
 ### IdeaPad is a revolutionary crowdfunding platform built on Solana that enables project creators to raise funds through a stake-to-raise model. By allowing backers to stake their SOL in exchange for exclusive rewards, IdeaPad offers a secure, innovative way to support projects while aligning incentives between creators and supporters.
 ## Aero
